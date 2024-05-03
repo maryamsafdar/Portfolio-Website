@@ -21,7 +21,7 @@ const Projects = () => {
           des="Discover Marie Online Market – your premier hub for all things maritime. Explore our portfolio for the latest marie products and services tailored to elevate your experience. Dive in now!"
           src={"/images/projectOne.png"}
          
-          vercelLink="https://portfolio-website-five-orpin-68.vercel.app/"
+          vercelLink="https://hackathon-seven-kohl.vercel.app/"
         />
         <ProjectsCard
           title="My Portfolio Website"
