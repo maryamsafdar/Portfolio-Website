@@ -1,7 +1,6 @@
-import React from 'react'
-import Title from './title';
-import ProjectsCard from './ProjectCards';
-
+import React from "react";
+import Title from "./title";
+import ProjectsCard from "./ProjectCards";
 
 const Projects = () => {
   return (
@@ -13,32 +12,34 @@ const Projects = () => {
         <Title
           title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
           des="My Projects"
-        
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14 text-white">
         <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={'/images/projectOne.jpg'}
+         
+          title="E-commerece Website"
+          des="Discover Marie Online Market – your premier hub for all things maritime. Explore our portfolio for the latest marie products and services tailored to elevate your experience. Dive in now!"
+          src={"/images/projectOne.png"}
+         
+          vercelLink="https://portfolio-website-five-orpin-68.vercel.app/"
         />
         <ProjectsCard
-          title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={'/images/projectTwo.jpg'}
+          title="My Portfolio Website"
+          des="Welcome to my portfolio! Explore a curated collection of my projects showcasing expertise in web development, design, and digital marketing. Let's connect and bring your ideas to life!"
+          src={"/images/projectTwo.png"}
+         
+          vercelLink="https://ecommercewebsite.vercel.app/"
         />
         <ProjectsCard
-          title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={'/images/projectThree.jpg'}
+          title="Startup Agency Landing Page"
+          des="Welcome to Startup Agency, your launchpad for startup success! Explore our services and let's ignite your journey to greatness together."
+          src={"/images/projectThree.png"}
+        
+          vercelLink="https://chattingapp.vercel.app/"
         />
-       
       </div>
     </section>
   );
-}
+};
 
-export default Projects
+export default Projects;

@@ -3,6 +3,7 @@ export interface ServiceData {
     hl: string;
     desc: string;
     img: string;
+    
   }
 
 const Service = (serviceData : ServiceData) => {
