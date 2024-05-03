@@ -12,7 +12,7 @@ const Skills: React.FC = () => {
     >
      
 
-      <div className="w-full lgl:w-1/2 text-white px-4">
+      <div className="w-full lgl:w-1/2 text-white px-4 mt-16">
         <div className="py-12 font-titleFont flex flex-col gap-4">
           
           <h2 className="text-3xl md:text-4xl font-bold text-center">Development Skill</h2>

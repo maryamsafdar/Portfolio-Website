@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <section
       id="projects"
-      className="w-full py-20 border-b-[1px] border-b-black"
+      className="w-full py-20 border-b-[1px] border-b-black mt-6"
     >
       <div className="flex justify-center items-center text-center text-white">
         <Title
@@ -20,7 +20,6 @@ const Projects = () => {
           title="E-commerece Website"
           des="Discover Marie Online Market – your premier hub for all things maritime. Explore our portfolio for the latest marie products and services tailored to elevate your experience. Dive in now!"
           src={"/images/projectOne.png"}
-         
           vercelLink="https://hackathon-seven-kohl.vercel.app/"
         />
         <ProjectsCard
