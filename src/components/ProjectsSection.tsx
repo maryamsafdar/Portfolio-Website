@@ -28,14 +28,14 @@ const Projects = () => {
           des="Welcome to my portfolio! Explore a curated collection of my projects showcasing expertise in web development, design, and digital marketing. Let's connect and bring your ideas to life!"
           src={"/images/projectTwo.png"}
          
-          vercelLink="https://ecommercewebsite.vercel.app/"
+          vercelLink="https://portfolio-website-five-orpin-68.vercel.app/"
         />
         <ProjectsCard
           title="Startup Agency Landing Page"
           des="Welcome to Startup Agency, your launchpad for startup success! Explore our services and let's ignite your journey to greatness together."
           src={"/images/projectThree.png"}
         
-          vercelLink="https://chattingapp.vercel.app/"
+          vercelLink="https://landing-page-sandy-eta.vercel.app/"
         />
       </div>
     </section>
