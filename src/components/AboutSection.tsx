@@ -73,12 +73,12 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="lg:text-lg scroll-m-20 text-xl tracking-tight">
-            I’m a versatile Full Stack Developer and AI Engineer with over 3 years of experience building
+            I'm a versatile Full Stack Developer and AI Engineer with over 3 years of experience building
             modern web applications and generative AI solutions. I specialize in developing intelligent, real-time apps using{" "}
             <b className="text-purple-400">Next.js, TypeScript, Python, LangGraph, and OpenAI APIs</b>. My expertise includes agentic
             development, chatbot creation, vector databases, and LLM-powered tools. I’ve worked on projects like
             AI Q&A assistants, gesture-controlled games, and smart travel planners. With a strong foundation in{" "}
-            <b className="text-purple-400">cloud-native tools, responsive UI, and real-time interaction</b>, I’m passionate about solving
+            <b className="text-purple-400">cloud-native tools, responsive UI, and real-time interaction</b>, I'm passionate about solving
             complex problems and delivering user-centered experiences. I'm also an active freelancer on Fiverr.
           </p>
 
