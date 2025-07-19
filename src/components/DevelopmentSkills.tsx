@@ -6,13 +6,8 @@ const skills = [
   { name: "Next.js", level: "100%" },
   { name: "TypeScript", level: "95%" },
   { name: "Python", level: "90%" },
-  { name: "React.js", level: "95%" },
   { name: "FastAPI", level: "85%" },
-  { name: "Streamlit", level: "85%" },
   { name: "LangChain & LangGraph", level: "80%" },
-  { name: "OpenAI API & Pinecone", level: "80%" },
-  { name: "Docker", level: "70%" },
-  { name: "Clerk Auth", level: "75%" },
   { name: "HTML/CSS", level: "95%" },
 ];
 
